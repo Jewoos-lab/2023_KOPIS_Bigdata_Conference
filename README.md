@@ -1,4 +1,4 @@
-<div>2023 제 3회 코피스빅데이터 컨퍼런스 최종본선(Top10) 진출 작품</div>
+<img width="924" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/19d99e48-d05e-4651-978e-8cc9b09ad04d"><div>2023 제 3회 코피스빅데이터 컨퍼런스 최종본선(Top10) 진출 작품</div>
 <div fontsize=3px>※ 대회정책상 코드공유는 따로하지 않았습니다.</div>
 
 <div>
@@ -92,17 +92,28 @@
 
 
 ## 5) 공연시설 군집분석
-<h3 align="center"><img width="994" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/f90d89f2-590c-4af9-92a9-2fdd2c05a810"></h3>
+<h3><img width="994" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/f90d89f2-590c-4af9-92a9-2fdd2c05a810"></h3>
 * 클러스터링 대상 변수를 위에서 도출한 공연시설별 요인점수로 지정함
 
 * 군집분석의 결과향상을 위하여 요인점수의 비대칭성 보완을 위하여 로그변환후 정규분포로 수정함
 
 * Kmeans++ 군집분석 기법을 이용하여 극장을 유형화 하였으며, 군집분석의 결과확인을 위하여 실루엣계수와 군집의 너비를 모두 고려하여 최적의 K선정함
 
-<br><br>
-# 📄 Modeling
-## 1) K-means clustering
-<h3 align="center"><img src= https://github.com/LHG-Git/project/assets/100845169/72117835-2fb5-451f-a343-3c49078b02ae></h3>
+## 6) 군집분석 결과
+<h3><img width="924" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/ddf047a1-8054-45fe-9cac-89e980be01d8"></h3>
+* 규모 및 경제성과 편의성 및 인프라를 나타내는 요인은 두 군집에서 동일한 수준
+
+* 접근성 및 인구특성을 나타내는 요인에서 두 군집별 차이가 확연히 나타나 위와 같이 군집해석을 진행
+
+
+# 📈 회복탄력성 분석
+## 1) 극장별 예상매출액 도출
+<h3><img width="911" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/436296e4-0414-43d3-8a62-43f25ef3ad02">
+</h3>
+* 회복탄력성을 구하기 위해선 극장별 예상 매출액을 도출하는 과정은 필수적임
+* 예상매출액 도출은 주관적인 개입이 들어가선 안됨
+* 따라서 공정거래위원회의 실제 예상매출액 산정법을 이용하여 공연시설 예상매출액 도출을 진행하였음
+
 
 * <strong>Group0</strong>은 시간과 관계없이 승하차 분포가 고르기 때문에 <strong>상업그룹</strong><br> 
 * <strong>Group1</strong>은 오전에는 승차에, 오후에는 하차에 분포가 되어 있기 때문에 <strong>주거그룹</strong><br>
