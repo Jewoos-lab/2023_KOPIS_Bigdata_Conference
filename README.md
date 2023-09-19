@@ -75,7 +75,8 @@
 * Bartlett검정 실시 결과, p_value값이 거의 0으로 적합한 것 확인
 
 ## 3) Factor Analysis
-<h3 align="center"><img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf"></h3>
+<h3 align="center"><img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf">
+</h3>
 * Scree Plot을 활용하여 고유값이 1보다 크면서 해석 가능한 수준인 3개의 요인 추출
 * 요인 적재값 도출을 통한 각 요인별 특징 도출
 * 이때, 요인분석 결과에 대한 신뢰성 검증을 위해 Tucker Lewis's reliability를 사용하였고, 해당값이 0.6 이상으로 도출되어 적합한 것으로 확인
