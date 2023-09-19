@@ -4,7 +4,6 @@
   <h1>🎖️ 2023 제3회 코피스빅데이터 컨퍼런스<br>
     <br>
    📈 위드코로나 시대 공연시설 유형별 회복탄력성 분석</h1>
-  <br>
 </div>
 <h4> 💭 Language : Python, QGIS <br><br>
      📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Haversine, Geopandas, Scikit-learn <br><br>
