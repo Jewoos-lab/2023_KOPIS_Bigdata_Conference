@@ -49,9 +49,10 @@
 
 <br><br>
 
-# 📊 EDA(탐색적 데이터 분석)
-## 1) 승하차에 영향을 주는 요인들 확인
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/c5155f19-1c34-4d24-ad21-28bd7109dab6"></h3>
+# 📊 공연시설 유형 분류
+## 1) 공연시설별 지표 생성
+<h3 align="center"><img width="972" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/347f08f2-46b1-4661-aefe-4129da9d6171">
+</h3>
 
 * 휴일이 겹칠수록 승하차 수 감소<br>
 
