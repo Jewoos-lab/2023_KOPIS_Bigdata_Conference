@@ -1,5 +1,5 @@
-<div align="center">2023 제 3회 코피스빅데이터 컨퍼런스 최종본선(Top10) 진출 작품
-* 대회정책상 코드공유는 따로하지 않았습니다.
+<div align="center">2023 제 3회 코피스빅데이터 컨퍼런스 최종본선(Top10) 진출 작품</div>
+<div align="center">대회정책상 코드공유는 따로하지 않았습니다.</div>
 </div>
 <div align="center">
   <h1>🎖️ 2023 제3회 코피스빅데이터 컨퍼런스<br><br>
