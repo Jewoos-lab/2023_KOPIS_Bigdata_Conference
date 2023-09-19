@@ -1,4 +1,4 @@
-<img width="924" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/19d99e48-d05e-4651-978e-8cc9b09ad04d"><div>2023 제 3회 코피스빅데이터 컨퍼런스 최종본선(Top10) 진출 작품</div>
+<div>2023 제 3회 코피스빅데이터 컨퍼런스 최종본선(Top10) 진출 작품</div>
 <div fontsize=3px>※ 대회정책상 코드공유는 따로하지 않았습니다.</div>
 
 <div>
