@@ -48,6 +48,7 @@
 
 ## 3) 회복탄력성 지수 계산용 데이터 구축
 <img width="846" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/881589ce-b148-469c-932e-670f892ebe20">
+
 * 매출의 최소지점을 파악할 수 없는 2,3번의 경우 제거를 하였고 최종적으로 138개의 중극장으로 추릴 수 있었음
 <br><br><br>
 
@@ -64,6 +65,7 @@
 ## 1) 공연시설별 지표 생성
 <h3><img width="972" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/347f08f2-46b1-4661-aefe-4129da9d6171">
 </h3>
+
 * 공연수요에 영향을 미치는 객곽적인 지표 확인을 위하여 관련 논문 참고후 최종변수 선정
 
 * 지역의 규모, 경제수준, 접근성, 문화수준을 대표할 수 있는 총 15개의 지표 생성
@@ -76,7 +78,8 @@
 
 ## 3) Factor Analysis
 <h3><img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf">
-</h3><br>
+</h3>
+
 * Scree Plot을 활용하여 고유값이 1보다 크면서 해석 가능한 수준인 3개의 요인 추출
 
 * 요인 적재값 도출을 통한 각 요인별 특징 도출
@@ -93,6 +96,7 @@
 
 ## 5) 공연시설 군집분석
 <h3><img width="994" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/f90d89f2-590c-4af9-92a9-2fdd2c05a810"></h3>
+
 * 클러스터링 대상 변수를 위에서 도출한 공연시설별 요인점수로 지정함
 
 * 군집분석의 결과향상을 위하여 요인점수의 비대칭성 보완을 위하여 로그변환후 정규분포로 수정함
@@ -101,6 +105,7 @@
 
 ## 6) 군집분석 결과
 <h3><img width="924" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/ddf047a1-8054-45fe-9cac-89e980be01d8"></h3>
+
 * 규모 및 경제성과 편의성 및 인프라를 나타내는 요인은 두 군집에서 동일한 수준
 
 * 접근성 및 인구특성을 나타내는 요인에서 두 군집별 차이가 확연히 나타나 위와 같이 군집해석을 진행
@@ -110,8 +115,11 @@
 ## 1) 극장별 예상매출액 도출
 <h3><img width="911" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/436296e4-0414-43d3-8a62-43f25ef3ad02">
 </h3>
+
 * 회복탄력성을 구하기 위해선 극장별 예상 매출액을 도출하는 과정은 필수적임
+
 * 예상매출액 도출은 주관적인 개입이 들어가선 안됨
+  
 * 따라서 공정거래위원회의 실제 예상매출액 산정법을 이용하여 공연시설 예상매출액 도출을 진행하였음
 
 #### EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong><br>
