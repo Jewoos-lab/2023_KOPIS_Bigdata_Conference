@@ -118,6 +118,7 @@
 * 따라서 공정거래위원회의 실제 예상매출액 산정법을 이용하여 공연시설 예상매출액 도출을 진행하였음
 
 <br>
+
 ## 2) 군집 유형별 인사이트 도출
 <h3><img width="396" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/f03c9a16-1ba7-4218-8a35-897a21672b05"></h3>
 
