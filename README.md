@@ -21,7 +21,7 @@
 </tbody>
 </table>
 <br>
-<h3 align="center"><img width="1062" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/809be072-33cd-4aba-a3e9-d01e9fead33a"></h3>
+<h3><img width="1062" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/809be072-33cd-4aba-a3e9-d01e9fead33a"></h3>
 
 # 💡 분석 배경 및 필요성
 * 수도권 공연시장의 회복세는 팬데믹 이후 꾸준히 상승<br>
@@ -62,7 +62,7 @@
 
 # 📊 공연시설 유형 분류
 ## 1) 공연시설별 지표 생성
-<h3 align="center"><img width="972" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/347f08f2-46b1-4661-aefe-4129da9d6171">
+<h3><img width="972" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/347f08f2-46b1-4661-aefe-4129da9d6171">
 </h3>
 * 공연수요에 영향을 미치는 객곽적인 지표 확인을 위하여 관련 논문 참고후 최종변수 선정<br>
 * 지역의 규모, 경제수준, 접근성, 문화수준을 대표할 수 있는 총 15개의 지표 생성<br>
@@ -75,8 +75,9 @@
 * Bartlett검정 실시 결과, p_value값이 거의 0으로 적합한 것 확인
 
 ## 3) Factor Analysis
-<h3 align="center"><img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf">
-</h3>
+<h3><img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf">
+</h3><br>
+
 * Scree Plot을 활용하여 고유값이 1보다 크면서 해석 가능한 수준인 3개의 요인 추출
 * 요인 적재값 도출을 통한 각 요인별 특징 도출
 * 이때, 요인분석 결과에 대한 신뢰성 검증을 위해 Tucker Lewis's reliability를 사용하였고, 해당값이 0.6 이상으로 도출되어 적합한 것으로 확인
