@@ -75,7 +75,7 @@
 * Bartlett검정 실시 결과, p_value값이 거의 0으로 적합한 것 확인
 
 ## 3) Factor Analysis
-<img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf"><br>
+<h3 align="center"><img width="553" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/d12aa506-c1bf-4070-ad1c-f55311be9ddf"></h3>
 * Scree Plot을 활용하여 고유값이 1보다 크면서 해석 가능한 수준인 3개의 요인 추출
 * 요인 적재값 도출을 통한 각 요인별 특징 도출
 * 이때, 요인분석 결과에 대한 신뢰성 검증을 위해 Tucker Lewis's reliability를 사용하였고, 해당값이 0.6 이상으로 도출되어 적합한 것으로 확인
@@ -85,11 +85,11 @@
 * 따라서 직교회전의 Varimax를 적용하였음
 * 그 후, 요인점수 도출에 요인 적재값을 가중치로 사용하여 요인점수를 계산함<br>
 요인점수 계산식
-<img width="530" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/c409db83-5fc1-4085-8642-2a9265ecf9bf">
+<h3 align="center"><img width="530" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/c409db83-5fc1-4085-8642-2a9265ecf9bf"></h3>
 
 
 ## 5) 공연시설 군집분석
-<img width="994" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/f90d89f2-590c-4af9-92a9-2fdd2c05a810">
+<h3 align="center"><img width="994" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/f90d89f2-590c-4af9-92a9-2fdd2c05a810"></h3>
 * 클러스터링 대상 변수를 위에서 도출한 공연시설별 요인점수로 지정함
 * 군집분석의 결과향상을 위하여 요인점수의 비대칭성 보완을 위하여 로그변환후 정규분포로 수정함
 * Kmeans++ 군집분석 기법을 이용하여 극장을 유형화 하였으며, 군집분석의 결과확인을 위하여 실루엣계수와 군집의 너비를 모두 고려하여 최적의 K선정함
