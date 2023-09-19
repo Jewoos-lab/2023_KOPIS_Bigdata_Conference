@@ -1,27 +1,24 @@
-🏆 2023 제 3회 코피스빅데이터 공모전
-
 <div align="center">
-  <h1>🥈 2022 서울시 빅데이터 컨퍼런스<br><br>
-  🚆 지하철 9호선 신설역 수요인원 예측 모델 개발 및 정책 제안</h1>
+  <h1>🎖️ 2023 제3회 코피스빅데이터 컨퍼런스<br><br>
+   📈 위드코로나 시대 공연시설 유형별 회복탄력성 분석</h1>
 </div>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/ac520ab3-bba0-4d5b-bf8f-7f1fdeaa38eb"></h3><br>
-<h4> 💭 Language : Python <br><br>
+<h4> 💭 Language : Python, QGIS <br><br>
      📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Haversine, Geopandas, Scikit-learn <br><br>
      🛠  Tool : Jupyter <br><br>
-     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h4><br>
+     📅 진행기간 : 2023.06.23 ~ 2022.09.08</h4><br>
 
 ### 👨‍👦‍👦 팀원소개
 <table>
 <tbody>
   <tr>
-    <td align="center"><img src="" width="20px;" alt=""><br /><b>팀장 : 유제우</b></a><br /></td>
-    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
-    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이현중</b></a><br /></td>
+    <td align="center"><img src="" width="20px;" alt=""><br /><b>팀장 : 오지현</b></a><br /></td>
+    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 유제우</b></a><br /></td>
+    <td align="center"><img src="" width="20px;" alt=""/><br /><b>팀원 : 임승재</b></a><br /></td>
    <tr/>
 </tbody>
 </table>
 <br>
-<h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/d86cd4c1-f384-4629-9595-012c54bc98fb" height = 600px></h3>
+<h3 align="center"><img width="1062" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/809be072-33cd-4aba-a3e9-d01e9fead33a"></h3>
 
 
 .
