@@ -46,6 +46,7 @@
 
 ## 3) 회복탄력성 지수 계산용 데이터 구축
 <img width="846" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/881589ce-b148-469c-932e-670f892ebe20">
+* 매출의 최소지점을 파악할 수 없는 2,3번의 경우 제거를 하였고 최종적으로 138개의 중극장으로 추릴 수 있었음
 <br><br><br>
 
 <br><br>
