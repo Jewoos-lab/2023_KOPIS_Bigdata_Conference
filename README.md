@@ -88,7 +88,7 @@
 * 따라서 직교회전의 Varimax를 적용하였음
 * 그 후, 요인점수 도출에 요인 적재값을 가중치로 사용하여 요인점수를 계산함<br>
 요인점수 계산식
-<h3 align="center"><img width="530" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/c409db83-5fc1-4085-8642-2a9265ecf9bf"></h3>
+<h3><img width="530" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/c409db83-5fc1-4085-8642-2a9265ecf9bf"></h3>
 
 
 ## 5) 공연시설 군집분석
@@ -113,11 +113,6 @@
 * 회복탄력성을 구하기 위해선 극장별 예상 매출액을 도출하는 과정은 필수적임
 * 예상매출액 도출은 주관적인 개입이 들어가선 안됨
 * 따라서 공정거래위원회의 실제 예상매출액 산정법을 이용하여 공연시설 예상매출액 도출을 진행하였음
-
-
-* <strong>Group0</strong>은 시간과 관계없이 승하차 분포가 고르기 때문에 <strong>상업그룹</strong><br> 
-* <strong>Group1</strong>은 오전에는 승차에, 오후에는 하차에 분포가 되어 있기 때문에 <strong>주거그룹</strong><br>
-* <strong>Group2</strong>는 오전에는 하차에, 오후에는 승차에 분포가 되어 있기 때문에 <strong>업무그룹</strong><br><br>
 
 #### EDA과정에서 업무지역과 주거지역은 출퇴근 시간에 유동인구가 밀집되어 있다는 근거를 통해, <strong>Group1과 Group2를 통합</strong><br>
 #### <strong>클러스터링 기법을 통해 최종적으로 Group0(상업 그룹)과 Group1(업무주거 그룹)으로 분류</strong><br><br><br>
