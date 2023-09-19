@@ -84,6 +84,15 @@
 * 그 후, 요인점수 도출에 요인 적재값을 가중치로 사용하여 요인점수를 계산함
 * <요인점수 계산식>
 <img width="530" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/c409db83-5fc1-4085-8642-2a9265ecf9bf">
+* <공연시설별 요인점수 예시>
+<img width="299" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/7c6a8ca4-ef91-4b74-aea0-4a1432c8ed44">
+
+
+## 5) 공연시설 군집분석
+* PCA를 통하여 변수의 축을 최소화하였고, 이를 통해 요인적재값을 도출하였기 때문에 요인별 상관성은 없는것으로 나타남
+* 따라서 직교회전의 Varimax를 적용하였음
+* 그 후, 요인점수 도출에 요인 적재값을 가중치로 사용하여 요인점수를 계산함
+* <요인점수 계산식>
 
 
 <br><br>
