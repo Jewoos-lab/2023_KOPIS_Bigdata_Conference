@@ -43,6 +43,10 @@
 * 예매/취소금액이 0원이고, 장당금액 > 할인금액인 경우 예매금액으로 대체
 * 예매/취소금액, 할인금액, 장당금액 모두 0원인 경우 같은 공연시설의 같은 공연 데이터의 평균값으로 대체<br><br><br>
 
+## 3) 회복탄력성 지수 계산용 데이터 구축
+<img width="846" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/881589ce-b148-469c-932e-670f892ebe20">
+<br><br><br>
+
 <br><br>
 
 # 📊 EDA(탐색적 데이터 분석)
