@@ -160,9 +160,8 @@
 * 그 결과, 각 군집별 회복탄력성에 영향을 미치는 요인을 파악한 결과 두 군집에서 문화시설 개수가 회복탄력성에 정반대되는 양상을 띄는것을 확인하였음
 
 ## 7) 가설검증
-<h3><img width="824" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/8392c2a9-9eeb-4453-9f16-be421e5b28e1">
+<h3><img width="760" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/cc86543d-98d4-412a-ba0d-84c89ac18f79">
 </h3>
-(※ 수립한 가설외에도 다양한 유의변수를 확인하기 위해 모든 변수를 대상으로함.)
 <br>
 
 * Man whitey U test를 통한 가설검증(분석 초기에 수립한 가설을 검증하는 부분임)
