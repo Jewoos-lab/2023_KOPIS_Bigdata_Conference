@@ -162,7 +162,6 @@
 ## 7) 가설검증
 <h3><img width="760" alt="image" src="https://github.com/Jewoos-lab/2023_KOPIS_Bigdata_Conference/assets/86662870/cc86543d-98d4-412a-ba0d-84c89ac18f79">
 </h3>
-<br>
 
 * Man whitey U test를 통한 가설검증(분석 초기에 수립한 가설을 검증하는 부분임)
 1) 경제성
